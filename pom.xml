@@ -5,8 +5,8 @@
 	<artifactId>helloMVC</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<project.build.sourceEncoding>Cp1252</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>Cp1252</project.reporting.outputEncoding>
 
 	</properties>
 	<packaging>war</packaging>
@@ -19,7 +19,7 @@
 
 				<version>3.5.1</version>
 				<configuration>
-					<encoding>UTF-8</encoding>
+					<encoding>Cp1252</encoding>
 					<source>1.8</source>
 					<target>1.8</target>
 				</configuration>
